@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanchana Tanchangya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> frontend developerfrom </h3>
 <img align="hight" alt="coding" width="400"src="https://cdnl.iconscout.com/lottie/premium/preview/girl-developer-developed-code-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-web-software-development-services-pack-people-animations-5861979.png?f=webp"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
